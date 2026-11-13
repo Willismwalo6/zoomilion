@@ -14,9 +14,10 @@ export const site = {
   tagline: 'Agricultural machinery',
   established: '', // e.g. '2014' — leave empty until confirmed by the company
   contact: {
-    phone: '0726 172 601',
+    phone: '0726 172 601', // inquiries & WhatsApp
+    callPhone: '0788 591 023', // calls
     whatsapp: '254726172601',
-    email: '', // e.g. 'sales@zoomiliontractors.co.ke'
+    email: 'mwalowillis@gmail.com',
     location: 'Obote Road, near Swan Centre Building, Kisumu City',
     hours: '', // e.g. 'Mon – Sat, 8:00 – 18:00'
   },

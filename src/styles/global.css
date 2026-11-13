@@ -916,6 +916,17 @@ h4 {
   .topbar__label {
     display: none;
   }
+  .topbar__inner {
+    flex-wrap: wrap;
+    gap: 2px 18px;
+    padding-block: 6px;
+  }
+  .topbar__group {
+    gap: 16px;
+  }
+  .topbar__loc {
+    flex: 0 0 100%;
+  }
   .header__actions {
     margin-left: auto;
   }

@@ -4,7 +4,7 @@ import { Brand } from './Brand';
 import { WhatsApp, Phone, Pin } from './Icons';
 
 export function Header() {
-  const tel = `tel:${site.contact.phone.replace(/\s/g, '')}`;
+  const tel = (n: string) => `tel:${n.replace(/\s/g, '')}`;
 
   return (
     <header className="site-header">
@@ -15,8 +15,13 @@ export function Header() {
             {site.contact.location}
           </span>
           <span className="topbar__group">
+            <span className="topbar__label">Calls</span>
+            <a className="topbar__item topbar__link" href={tel(site.contact.callPhone)}>
+              <Phone size={13} />
+              {site.contact.callPhone}
+            </a>
             <span className="topbar__label">Inquiries &amp; WhatsApp</span>
-            <a className="topbar__item topbar__link" href={tel}>
+            <a className="topbar__item topbar__link" href={tel(site.contact.phone)}>
               <Phone size={13} />
               {site.contact.phone}
             </a>

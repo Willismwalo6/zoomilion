@@ -64,10 +64,10 @@ export function Footer() {
             <ul className="footer__contact">
               <li>
                 <Phone size={14} />
-                {isPlaceholder(site.contact.phone) ? (
+                {isPlaceholder(site.contact.callPhone) ? (
                   <span>Phone number to be confirmed</span>
                 ) : (
-                  <a href={`tel:${site.contact.phone.replace(/\s/g, '')}`}>{site.contact.phone}</a>
+                  <a href={`tel:${site.contact.callPhone.replace(/\s/g, '')}`}>{site.contact.callPhone}</a>
                 )}
               </li>
               <li>

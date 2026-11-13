@@ -14,10 +14,10 @@ export default function Contact() {
   const cards = [
     {
       icon: Phone,
-      label: 'Phone',
-      value: site.contact.phone,
+      label: 'Calls',
+      value: site.contact.callPhone,
       placeholder: 'Phone number to be confirmed',
-      href: site.contact.phone ? `tel:${site.contact.phone.replace(/\s/g, '')}` : undefined,
+      href: site.contact.callPhone ? `tel:${site.contact.callPhone.replace(/\s/g, '')}` : undefined,
     },
     {
       icon: WhatsApp,
