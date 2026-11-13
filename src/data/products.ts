@@ -67,6 +67,7 @@ export const products: Product[] = [
       { src: '/images/products/110hp-tractor-1.jpg', alt: '110HP agricultural tractor supplied by Zoomilion Tractors' },
       { src: '/images/products/110hp-tractor-2.jpg', alt: 'Detail view of the 110HP tractor' },
       { src: '/images/products/110hp-tractor-3.jpg', alt: '110HP tractor in field conditions' },
+      { src: '/images/products/110hp-tractor-4.jpg', alt: 'Tractor fitted with a disc plough' },
     ],
     featured: true,
   },
@@ -100,6 +101,7 @@ export const products: Product[] = [
       { src: '/images/products/yto-75hp-1.jpg', alt: 'YTO 75HP 4WD tractor with free Baldan plough' },
       { src: '/images/products/yto-75hp-2.jpg', alt: 'YTO 75HP 4WD tractor side profile' },
       { src: '/images/products/yto-75hp-3.jpg', alt: 'YTO tractor working in the field' },
+      { src: '/images/products/yto-75hp-4.jpg', alt: 'YTO tractor, front three-quarter view' },
     ],
     featured: true,
   },
@@ -121,6 +123,7 @@ export const products: Product[] = [
     images: [
       { src: '/images/products/baldan-plough-1.jpg', alt: '3DSCS Baldan plough' },
       { src: '/images/products/baldan-plough-2.jpg', alt: 'Baldan plough working the soil' },
+      { src: '/images/products/baldan-plough-3.jpg', alt: '3DSCS Baldan plough, side view' },
     ],
   },
   {
@@ -139,6 +142,7 @@ export const products: Product[] = [
     images: [
       { src: '/images/products/rotavator-1.jpg', alt: 'Rotavator implement for seedbed preparation' },
       { src: '/images/products/rotavator-2.jpg', alt: 'Rotavator detail' },
+      { src: '/images/products/rotavator-3.jpg', alt: 'Rotavator, side view' },
     ],
   },
   {
@@ -157,6 +161,7 @@ export const products: Product[] = [
     images: [
       { src: '/images/products/reversible-mouldboard-1.jpg', alt: 'Reversible mould board plough' },
       { src: '/images/products/reversible-mouldboard-2.jpg', alt: 'Reversible mould board on a tractor' },
+      { src: '/images/products/reversible-mouldboard-3.jpg', alt: 'Reversible mould board plough, side view' },
     ],
   },
   {
@@ -175,6 +180,7 @@ export const products: Product[] = [
     images: [
       { src: '/images/products/normal-mouldboard-1.jpg', alt: 'Normal mould board plough' },
       { src: '/images/products/normal-mouldboard-2.jpg', alt: 'Normal mould board plough in the field' },
+      { src: '/images/products/normal-mouldboard-3.jpg', alt: 'Normal mould board plough, side view' },
     ],
   },
   {
@@ -193,6 +199,7 @@ export const products: Product[] = [
     images: [
       { src: '/images/products/harrow-18-1.jpg', alt: '18 plate harrow plough' },
       { src: '/images/products/harrow-18-2.jpg', alt: '18 plate harrow working in soil' },
+      { src: '/images/products/harrow-18-3.jpg', alt: '18 plate disc harrow, side view' },
     ],
   },
   {
@@ -230,6 +237,7 @@ export const products: Product[] = [
     images: [
       { src: '/images/products/walking-tractor-1.jpg', alt: '16HP walking tractor' },
       { src: '/images/products/walking-tractor-2.jpg', alt: 'Walk-behind tractor working soil' },
+      { src: '/images/products/walking-tractor-3.jpg', alt: 'Walking tractor with attached implement' },
     ],
   },
 ];
