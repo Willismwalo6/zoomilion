@@ -1,5 +1,5 @@
 /**
- * ZOOMILION TRACTORS — single source of truth for business details.
+ * ZOOMLION, YTO TRACTORS AND IMPLEMENTS — single source of truth for business details.
  *
  * EDIT THIS FILE to add the company's real phone number, WhatsApp number,
  * email address and physical location. Empty strings are deliberately shown
@@ -9,8 +9,8 @@
  * e.g. '254712345678' (no +, no spaces).
  */
 export const site = {
-  name: 'Zoomilion Tractors',
-  shortName: 'Zoomilion',
+  name: 'Zoomlion, YTO Tractors and Implements',
+  shortName: 'Zoomlion',
   tagline: 'Agricultural machinery',
   established: '', // e.g. '2014' — leave empty until confirmed by the company
   contact: {
@@ -37,10 +37,10 @@ export const site = {
 };
 
 export const DEFAULT_WA_MESSAGE =
-  'Hello Zoomilion Tractors, I would like more information about your tractors and agricultural equipment.';
+  'Hello Zoomlion, YTO Tractors and Implements, I would like more information about your tractors and agricultural equipment.';
 
 export function productWaMessage(productName: string) {
-  return `Hello Zoomilion Tractors, I am interested in ${productName}. Kindly provide more information and details about purchasing.`;
+  return `Hello Zoomlion, YTO Tractors and Implements, I am interested in ${productName}. Kindly provide more information and details about purchasing.`;
 }
 
 /** Builds a WhatsApp link. Falls back to WhatsApp's share sheet until a

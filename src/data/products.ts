@@ -1,5 +1,5 @@
 /**
- * ZOOMILION TRACTORS — product catalogue.
+ * ZOOMLION, YTO TRACTORS AND IMPLEMENTS — product catalogue.
  *
  * Add, remove or edit products here. Every card, detail page, filter and
  * search result is generated from this file. Prices are in Kenyan Shillings.
@@ -56,7 +56,7 @@ export const products: Product[] = [
       'A 110 horsepower agricultural tractor, supplied with a two-year warranty.',
     description: [
       'The 110HP Tractor is built for serious field work. With 110 horsepower on tap, it is suited to primary tillage, haulage and general farm operations where consistent power and long working days matter.',
-      'Every unit is supplied by Zoomilion Tractors with a two-year warranty, so the machine you put to work is one you can depend on season after season.',
+      'Every unit is supplied by Zoomlion, YTO Tractors and Implements with a two-year warranty, so the machine you put to work is one you can depend on season after season.',
       'Talk to our team about the implement package that matches the work you need to do — ploughs, harrows and rotavators can be supplied alongside the tractor.',
     ],
     specs: [
@@ -64,7 +64,7 @@ export const products: Product[] = [
       { label: 'Warranty', value: '2 years' },
     ],
     images: [
-      { src: '/images/products/110hp-tractor-1.jpg', alt: '110HP agricultural tractor supplied by Zoomilion Tractors' },
+      { src: '/images/products/110hp-tractor-1.jpg', alt: '110HP agricultural tractor supplied by Zoomlion, YTO Tractors and Implements' },
       { src: '/images/products/110hp-tractor-2.jpg', alt: 'Detail view of the 110HP tractor' },
       { src: '/images/products/110hp-tractor-3.jpg', alt: '110HP tractor in field conditions' },
       { src: '/images/products/110hp-tractor-4.jpg', alt: 'Tractor fitted with a disc plough' },
@@ -87,7 +87,7 @@ export const products: Product[] = [
       'YTO 75HP 4WD tractor with a free 3DSCS Baldan plough and a two-year warranty.',
     description: [
       'The YTO 75HP 4WD is a versatile four-wheel-drive tractor for mixed farming operations. At 75 horsepower with drive to all four wheels, it handles cultivation, planting and haulage through the working season.',
-      'Order this tractor at Zoomilion Tractors and it comes with a 3DSCS Baldan plough at no extra cost — a complete primary tillage package at one price, backed by a two-year warranty.',
+      'Order this tractor at Zoomlion, YTO Tractors and Implements and it comes with a 3DSCS Baldan plough at no extra cost — a complete primary tillage package at one price, backed by a two-year warranty.',
       'Our team can advise on matching implements such as harrow ploughs, mould boards and rotavators to your land and operation.',
     ],
     specs: [
@@ -115,7 +115,7 @@ export const products: Product[] = [
     summary:
       'Primary tillage plough, available on its own or free with the YTO 75HP 4WD tractor.',
     description: [
-      'The 3DSCS Baldan plough is a robust primary tillage implement that turns and breaks soil ahead of planting. It is the plough supplied free with every YTO 75HP 4WD tractor purchased from Zoomilion Tractors.',
+      'The 3DSCS Baldan plough is a robust primary tillage implement that turns and breaks soil ahead of planting. It is the plough supplied free with every YTO 75HP 4WD tractor purchased from Zoomlion, YTO Tractors and Implements.',
       'Available as a standalone purchase or as part of the YTO 75HP tractor package, it pairs naturally with the harrow ploughs and mould boards in our range.',
       'Contact our team on WhatsApp to confirm the configuration that suits your tractor and land preparation programme.',
     ],
@@ -135,7 +135,7 @@ export const products: Product[] = [
     summary: 'Rotary tillage equipment for seedbed preparation.',
     description: [
       'Rotavators break down and mix soil into a fine seedbed in a single pass, making them a practical choice for consistent planting depth and good seed-to-soil contact.',
-      'Supplied by Zoomilion Tractors as part of our agricultural implement range, with the support of our team to match the unit to your tractor.',
+      'Supplied by Zoomlion, YTO Tractors and Implements as part of our agricultural implement range, with the support of our team to match the unit to your tractor.',
       'Send us a WhatsApp enquiry with your tractor details and we will confirm availability and pricing.',
     ],
     specs: [],
@@ -173,7 +173,7 @@ export const products: Product[] = [
     summary: 'Standard mould board plough for land preparation.',
     description: [
       'The normal mould board plough is a straightforward, dependable implement for turning soil and burying crop residue ahead of the next season.',
-      'A practical match for routine land preparation on mixed farms, supplied as part of the Zoomilion Tractors implement range.',
+      'A practical match for routine land preparation on mixed farms, supplied as part of the Zoomlion, YTO Tractors and Implements implement range.',
       'Contact us on WhatsApp for more information on this implement.',
     ],
     specs: [],
@@ -192,7 +192,7 @@ export const products: Product[] = [
     summary: '18-plate harrow plough for secondary tillage and seedbed finishing.',
     description: [
       'An 18-plate harrow plough that breaks clods and levels the soil surface after primary tillage, preparing the field for planting.',
-      'Supplied by Zoomilion Tractors as part of our agricultural implement range.',
+      'Supplied by Zoomlion, YTO Tractors and Implements as part of our agricultural implement range.',
       'Ask our team about matching this harrow to your tractor on WhatsApp.',
     ],
     specs: [{ label: 'Plates', value: '18' }],
@@ -212,7 +212,7 @@ export const products: Product[] = [
     description: [
       'The 20-plate harrow plough offers a wider working width than the 18-plate unit, covering more ground per pass during seedbed preparation.',
       'A strong option for larger fields and operations that need to keep land preparation on schedule.',
-      'Contact Zoomilion Tractors on WhatsApp to discuss availability and pricing.',
+      'Contact Zoomlion, YTO Tractors and Implements on WhatsApp to discuss availability and pricing.',
     ],
     specs: [{ label: 'Plates', value: '20' }],
     images: [

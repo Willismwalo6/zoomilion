@@ -45,7 +45,7 @@ export function EnquiryForm({ defaultProduct = '', heading = 'Send an enquiry', 
 
   const buildMessage = () => {
     const lines = [
-      'Hello Zoomilion Tractors,',
+      'Hello Zoomlion, YTO Tractors and Implements,',
       '',
       `Name: ${values.name.trim()}`,
       `Phone: ${values.phone.trim()}`,

@@ -8,7 +8,7 @@ import { Clock, Mail, Phone, Pin, WhatsApp } from '../components/Icons';
 export default function Contact() {
   useSeo(
     'Contact Us — Enquiries & Quotations',
-    'Contact Zoomilion Tractors about tractors, implements, spare parts or a quotation. Send an enquiry by form or WhatsApp and our team will respond.',
+    'Contact Zoomlion, YTO Tractors and Implements about tractors, implements, spare parts or a quotation. Send an enquiry by form or WhatsApp and our team will respond.',
   );
 
   const cards = [

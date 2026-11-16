@@ -5,7 +5,7 @@ import { credits } from '../data/credits';
 export default function Credits() {
   useSeo(
     'Photography Credits',
-    'Photography credits and licensing for the machinery images used on the Zoomilion Tractors website.',
+    'Photography credits and licensing for the machinery images used on the Zoomlion, YTO Tractors and Implements website.',
   );
 
   return (
@@ -27,7 +27,7 @@ export default function Credits() {
         <div className="container">
           <p className="credits-note">
             Each photograph below is credited to its author and licence as published on Wikimedia
-            Commons. Where a product photograph is available from Zoomilion Tractors, swap the file in{' '}
+            Commons. Where a product photograph is available from Zoomlion, YTO Tractors and Implements, swap the file in{' '}
             <code>public/images/</code> and keep the same filename so the catalogue picks it up
             automatically.
           </p>

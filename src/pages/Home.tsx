@@ -39,7 +39,7 @@ const offer = {
 
 export default function Home() {
   useSeo(
-    'Zoomilion Tractors — Powering Agriculture. Driving Progress.',
+    'Zoomlion, YTO Tractors and Implements — Powering Agriculture. Driving Progress.',
     'Powerful tractors, dependable agricultural machinery and quality farming equipment. Explore the YTO 75HP 4WD with a free Baldan plough and two-year warranty cover.',
   );
 
@@ -69,7 +69,7 @@ export default function Home() {
       <section className="section manifesto">
         <div className="container manifesto__inner">
           <Reveal className="manifesto__copy">
-            <p className="eyebrow">The Zoomilion standard</p>
+            <p className="eyebrow">The Zoomlion standard</p>
             <h2 className="section-title">
               MACHINERY THAT EARNS
               <br />
@@ -80,7 +80,7 @@ export default function Home() {
               work on real farms — and backed with the support to keep it working.
             </p>
             <Link to="/about" className="link-arrow">
-              About Zoomilion Tractors
+              About Zoomlion, YTO Tractors and Implements
               <ArrowUpRight size={14} />
             </Link>
           </Reveal>
@@ -183,7 +183,7 @@ export default function Home() {
               </Link>
               <a
                 href={waLink(
-                  'Hello Zoomilion Tractors, I am interested in the YTO 75HP 4WD Tractor offer with the free 3DSCS Baldan Plough. Kindly provide more information and details about purchasing.',
+                  'Hello Zoomlion, YTO Tractors and Implements, I am interested in the YTO 75HP 4WD Tractor offer with the free 3DSCS Baldan Plough. Kindly provide more information and details about purchasing.',
                 )}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -249,7 +249,7 @@ export default function Home() {
         <div className="container">
           <div className="section-head">
             <Reveal className="section-head__copy">
-              <p className="eyebrow">Why Zoomilion Tractors</p>
+              <p className="eyebrow">Why Zoomlion, YTO Tractors and Implements</p>
               <h2 className="section-title">
                 A DEALERSHIP THAT STANDS
                 <br />
@@ -304,7 +304,7 @@ export default function Home() {
               THAT <span className="accent">FEEDS PEOPLE.</span>
             </h2>
             <p className="lead">
-              Zoomilion Tractors supplies tractors, agricultural implements and farming equipment to
+              Zoomlion, YTO Tractors and Implements supplies tractors, agricultural implements and farming equipment to
               farmers and agricultural businesses — with straightforward advice on the machinery that
               suits the work in front of you.
             </p>

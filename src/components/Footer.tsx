@@ -97,7 +97,7 @@ export function Footer() {
         </div>
 
         <div className="footer__bottom">
-          <p>© {year} Zoomilion Tractors. All rights reserved.</p>
+          <p>© {year} Zoomlion, YTO Tractors and Implements. All rights reserved.</p>
           <div className="footer__legal">
             <Link to="/credits">Photography credits</Link>
             <Link to="/contact">Enquiries</Link>

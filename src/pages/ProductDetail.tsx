@@ -27,8 +27,8 @@ export default function ProductDetail() {
   useSeo(
     product ? `${product.name} — ${formatKsh(product.price)}` : 'Product',
     product
-      ? `${product.summary} Available from Zoomilion Tractors at ${formatKsh(product.price)}.`
-      : 'Zoomilion Tractors product catalogue.',
+      ? `${product.summary} Available from Zoomlion, YTO Tractors and Implements at ${formatKsh(product.price)}.`
+      : 'Zoomlion, YTO Tractors and Implements product catalogue.',
   );
 
   if (!product) return <NotFound />;

@@ -1,5 +1,5 @@
 /**
- * ZOOMILION TRACTORS — editable page copy.
+ * ZOOMLION, YTO TRACTORS AND IMPLEMENTS — editable page copy.
  *
  * These paragraphs are intentionally generic where the business has not
  * supplied verified details (history, founding date, location, achievements).
@@ -9,11 +9,11 @@
 export const about = {
   heading: 'AGRICULTURAL MACHINERY, SUPPLIED WITH PURPOSE.',
   intro:
-    'Zoomilion Tractors is an agricultural machinery supplier serving farmers and agricultural businesses. We bring together tractors, implements and farming equipment in one place, so a single conversation can take an operation from land preparation through to planting.',
+    'Zoomlion, YTO Tractors and Implements is an agricultural machinery supplier serving farmers and agricultural businesses. We bring together tractors, implements and farming equipment in one place, so a single conversation can take an operation from land preparation through to planting.',
   paragraphs: [
     'Our range is centred on the work that has to get done: a 110 horsepower tractor for heavier demands, a 75HP 4WD YTO tractor for versatile mixed farming, and the ploughs, harrows, rotavators and walking tractors that complete the package.',
     'We keep the offer uncomplicated. Clear pricing in Kenyan Shillings, a two-year warranty on the specified tractor models, and a team you can reach on WhatsApp before and after you buy.',
-    'Company profile details — including our history and locations — can be added here by the Zoomilion Tractors team.',
+    'Company profile details — including our history and locations — can be added here by the Zoomlion, YTO Tractors and Implements team.',
   ],
   values: [
     {

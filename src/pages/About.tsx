@@ -9,13 +9,13 @@ import { waLink } from '../data/site';
 export default function About() {
   useSeo(
     'About Us — Agricultural Machinery Supplier',
-    'Zoomilion Tractors supplies tractors, agricultural implements and farming equipment to farmers and agricultural businesses, with clear pricing and two-year warranty cover on selected tractors.',
+    'Zoomlion, YTO Tractors and Implements supplies tractors, agricultural implements and farming equipment to farmers and agricultural businesses, with clear pricing and two-year warranty cover on selected tractors.',
   );
 
   return (
     <>
       <PageHero
-        eyebrow="About Zoomilion Tractors"
+        eyebrow="About Zoomlion, YTO Tractors and Implements"
         title={
           <>
             BUILT AROUND
@@ -54,7 +54,7 @@ export default function About() {
             />
             <div className="about-intro__quote">
               <p>“Powering agriculture. Driving progress.”</p>
-              <span>Zoomilion Tractors</span>
+              <span>Zoomlion, YTO Tractors and Implements</span>
             </div>
           </Reveal>
         </div>

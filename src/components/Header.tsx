@@ -51,7 +51,7 @@ export function Header() {
             href={waLink()}
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Chat with Zoomilion Tractors on WhatsApp"
+            aria-label="Chat with Zoomlion, YTO Tractors and Implements on WhatsApp"
           >
             <WhatsApp size={17} />
             <span className="wa-link__label">WhatsApp</span>

@@ -50,7 +50,7 @@ export function Hero() {
   }, []);
 
   return (
-    <section className="hero" ref={heroRef} aria-label="Zoomilion Tractors">
+    <section className="hero" ref={heroRef} aria-label="Zoomlion, YTO Tractors and Implements">
       <div className="hero__glow" aria-hidden="true" />
       <div className="hero__grid" aria-hidden="true" />
       <span className="hero__ghost" aria-hidden="true">
@@ -66,7 +66,7 @@ export function Hero() {
 
       <div className="container hero__inner">
         <div className="hero__copy">
-          <p className="eyebrow">Zoomilion Tractors · Agricultural Machinery</p>
+          <p className="eyebrow">Zoomlion, YTO Tractors and Implements · Agricultural Machinery</p>
 
           <h1 className="hero__title">
             <span className="hero__line">Powering</span>

@@ -25,7 +25,7 @@ const config = {
     crumbs: [{ label: 'Home', to: '/' }, { label: 'Our Tractors' }],
     seoTitle: 'Our Tractors — 110HP & YTO 75HP 4WD',
     seoDescription:
-      'Browse the Zoomilion Tractors range: the 110HP Tractor at KSh 3,800,000 and the YTO 75HP 4WD at KSh 2,800,000 with a free 3DSCS Baldan plough and two-year warranty.',
+      'Browse the Zoomlion, YTO Tractors and Implements range: the 110HP Tractor at KSh 3,800,000 and the YTO 75HP 4WD at KSh 2,800,000 with a free 3DSCS Baldan plough and two-year warranty.',
   },
   implements: {
     eyebrow: 'Implements & equipment',
@@ -42,7 +42,7 @@ const config = {
     crumbs: [{ label: 'Home', to: '/' }, { label: 'Implements & Equipment' }],
     seoTitle: 'Implements & Agricultural Equipment',
     seoDescription:
-      'Agricultural implements from Zoomilion Tractors: Baldan ploughs, rotavators, mould boards, harrow ploughs and walking tractors, with prices in Kenyan Shillings.',
+      'Agricultural implements from Zoomlion, YTO Tractors and Implements: Baldan ploughs, rotavators, mould boards, harrow ploughs and walking tractors, with prices in Kenyan Shillings.',
   },
   all: {
     eyebrow: 'Full catalogue',
@@ -53,13 +53,13 @@ const config = {
         IN <span className="accent">ONE PLACE.</span>
       </>
     ),
-    lead: 'Search the complete Zoomilion Tractors catalogue by name, implement type or horsepower.',
+    lead: 'Search the complete Zoomlion, YTO Tractors and Implements catalogue by name, implement type or horsepower.',
     figure: '09',
     figureLabel: 'Products in catalogue',
     crumbs: [{ label: 'Home', to: '/' }, { label: 'All Products' }],
     seoTitle: 'Product Catalogue — Tractors & Implements',
     seoDescription:
-      'The full Zoomilion Tractors catalogue: tractors, ploughs, harrows, rotavators and walking tractors with prices in Kenyan Shillings.',
+      'The full Zoomlion, YTO Tractors and Implements catalogue: tractors, ploughs, harrows, rotavators and walking tractors with prices in Kenyan Shillings.',
   },
 } as const;
 

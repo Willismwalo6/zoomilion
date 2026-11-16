@@ -1,6 +1,6 @@
-# ZOOMILION TRACTORS — website
+# ZOOMLION, YTO TRACTORS AND IMPLEMENTS — website
 
-A premium, cinematic agricultural machinery website for Zoomilion Tractors, built with
+A premium, cinematic agricultural machinery website for Zoomlion, YTO Tractors and Implements, built with
 React + TypeScript + Vite.
 
 ## Run it
@@ -58,7 +58,7 @@ There is no backend. The enquiry and quotation forms validate input, then
 prepare a formatted enquiry and hand it to WhatsApp (with an email option once
 `contact.email` is set). Product buttons use the exact message:
 
-> Hello Zoomilion Tractors, I am interested in [PRODUCT NAME]. Kindly provide
+> Hello Zoomlion, YTO Tractors and Implements, I am interested in [PRODUCT NAME]. Kindly provide
 > more information and details about purchasing.
 
 ## Deployment

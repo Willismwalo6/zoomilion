@@ -12,7 +12,7 @@ const icons = [Cog, Layers, Wrench];
 export default function SpareParts() {
   useSeo(
     'Spare Parts — Tractor & Implement Parts',
-    'Spare parts for the tractors and implements supplied by Zoomilion Tractors. Tell us the machine and the part you need and we will confirm availability, pricing and lead time.',
+    'Spare parts for the tractors and implements supplied by Zoomlion, YTO Tractors and Implements. Tell us the machine and the part you need and we will confirm availability, pricing and lead time.',
   );
 
   return (
@@ -46,7 +46,7 @@ export default function SpareParts() {
               <a
                 className="btn btn--primary"
                 href={waLink(
-                  'Hello Zoomilion Tractors, I am looking for a spare part. Kindly provide more information and details about purchasing.',
+                  'Hello Zoomlion, YTO Tractors and Implements, I am looking for a spare part. Kindly provide more information and details about purchasing.',
                 )}
                 target="_blank"
                 rel="noopener noreferrer"
